@@ -241,4 +241,4 @@ This repository serves as the official landing page for Warcraft 3. The software
 **Get the most recent version of Warcraft 3 today!**
 
 ---
-**Last updated:** 2026-10-31 21:16:40 UTC
+**Last updated:** 2026-11-01 00:51:44 UTC
